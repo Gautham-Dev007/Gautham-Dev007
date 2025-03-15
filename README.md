@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gautham-Dev007
-- 👀 I’m interested in learning and inbuiltly curious
-- 🌱 I’m currently learning Life
-- 💞️ I’m looking to collaborate on annything new
+- 👀 I’m pursuing Electronics & Communications Engineering course
+- 🌱 I’m curious to learn, experiment
+- 💞️ I’m interested in any software, hardware, whole system designs and testing
 
 
 <!---
