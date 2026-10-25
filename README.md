@@ -20,13 +20,13 @@ together.
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
+    <td><b>Core</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython">
-      <img src="https://img.shields.io/badge/Verilog-6E4C13?style=flat-square" alt="Verilog">
     </td>
   </tr>
   <tr>
@@ -50,7 +50,6 @@ together.
     <td><b>Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32CubeIDE">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt5">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
@@ -105,4 +104,5 @@ Microsoft), and a helmet-detection system with an STM32 and YOLOv8n.
 
 ## Contact
 
+<a href="https://www.linkedin.com/in/gautham-seetharaman-65670728a/"><img src="https://img.shields.io/badge/LinkedIn-Gautham%20Seetharaman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:gauthamseetharaman@outlook.com"><img src="https://img.shields.io/badge/Email-gauthamseetharaman%40outlook.com-0078D4?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"></a>
